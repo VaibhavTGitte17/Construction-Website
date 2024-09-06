@@ -46,7 +46,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="/about"
+              href="/"
               className="text-white hover:text-blue-500 transition duration-300"
             >
               About Us
@@ -54,7 +54,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="/services"
+              href="/"
               className="text-white hover:text-blue-500 transition duration-300"
             >
               Services
@@ -62,7 +62,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="/portfolio"
+              href="/"
               className="text-white hover:text-blue-500 transition duration-300"
             >
               Portfolio
@@ -70,7 +70,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="/contact"
+              href="/"
               className="text-white hover:text-blue-500 transition duration-300"
             >
               Contact Us
@@ -81,7 +81,7 @@ const Navbar = () => {
         {/* Contact Us Button */}
         <div>
           <a
-            href="/contact"
+            href="/"
             className="bg-blue-500 text-white px-4 py-2 rounded-md shadow hover:bg-blue-600 transition duration-300"
           >
             Contact Us

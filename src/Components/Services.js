@@ -40,7 +40,7 @@ function Services() {
               project.
             </p>
             <a
-              href="#"
+              href="/"
               className="text-blue-500 hover:underline flex items-center"
             >
               Read More <FaArrowRight className="ml-2" />
@@ -63,7 +63,7 @@ function Services() {
               entertainment.
             </p>
             <a
-              href="#"
+              href="/"
               className="text-blue-500 hover:underline flex items-center"
             >
               Read More <FaArrowRight className="ml-2" />
@@ -85,7 +85,7 @@ function Services() {
               and functionality while maintaining aesthetic appeal.
             </p>
             <a
-              href="#"
+              href="/"
               className="text-blue-500 hover:underline flex items-center"
             >
               Read More <FaArrowRight className="ml-2" />
@@ -107,7 +107,7 @@ function Services() {
               expert remodeling services, tailored to meet your specific needs.
             </p>
             <a
-              href="#"
+              href="/"
               className="text-blue-500 hover:underline flex items-center"
             >
               Read More <FaArrowRight className="ml-2" />
@@ -129,7 +129,7 @@ function Services() {
               ensuring every detail is crafted to your exact specifications.
             </p>
             <a
-              href="#"
+              href="/"
               className="text-blue-500 hover:underline flex items-center"
             >
               Read More <FaArrowRight className="ml-2" />
@@ -151,7 +151,7 @@ function Services() {
               showcases our attention to detail and exceptional craftsmanship.
             </p>
             <a
-              href="#"
+              href="/"
               className="text-blue-500 hover:underline flex items-center"
             >
               Read More <FaArrowRight className="ml-2" />
