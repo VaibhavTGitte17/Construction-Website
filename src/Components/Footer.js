@@ -27,16 +27,16 @@ function Footer() {
 
         {/* Social Media Icons */}
         <div className="flex justify-center space-x-4 mb-8">
-          <a href="#" aria-label="Twitter" className="text-black hover:text-blue-400">
+          <a href="/" aria-label="Twitter" className="text-black hover:text-blue-400">
             <FaTwitter size={24} />
           </a>
-          <a href="#" aria-label="Facebook" className="text-black hover:text-blue-600">
+          <a href="/" aria-label="Facebook" className="text-black hover:text-blue-600">
             <FaFacebookF size={24} />
           </a>
-          <a href="#" aria-label="LinkedIn" className="text-black hover:text-blue-700">
+          <a href="/" aria-label="LinkedIn" className="text-black hover:text-blue-700">
             <FaLinkedinIn size={24} />
           </a>
-          <a href="#" aria-label="Instagram" className="text-black hover:text-pink-400">
+          <a href="/" aria-label="Instagram" className="text-black hover:text-pink-400">
             <FaInstagram size={24} />
           </a>
         </div>
